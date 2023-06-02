@@ -55,3 +55,8 @@
 
 
 ## Заключение
+
+## Ошибки Log
+
+Markdown insrtruction.md | 46 +++++++++++++++++++++++++++++++---------------
+ 1 file changed, 31 insertions(+), 15 deletions(-)
